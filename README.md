@@ -30,8 +30,8 @@ A UK-based online retailer has **no visibility into which customers are drifting
 rfm_churn_project/
 │
 ├── data/
-│   ├── Online Retail.xlsx          # Raw UCI dataset (source)
-│   └── rfm_segments.csv            # Output: scored & segmented customers
+│   ├── Raw/ online_retail.xlsx          # Raw UCI dataset (source)
+│   └── Pocessed/ cleaned_retail_data.csv            # Output: cleaned dataset for scored & segmented customers
 │
 ├── notebooks/
 │   └── rfm_analysis.ipynb          # Main analysis notebook (end-to-end)
@@ -46,7 +46,8 @@ rfm_churn_project/
 │   └── frequency_vs_monetary.png
 │
 ├── sql/
-│   └── rfm_queries.sql             # All SQL queries used in the project
+│   └── Exploratory SQL Queries.sql
+│   └── SQL for RFM Base Table             # All SQL queries used in the project
 │
 ├── requirements.txt
 └── README.md
