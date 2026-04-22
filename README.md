@@ -129,8 +129,6 @@ Business Recommendations
 
 ## 📈 Key Findings
 
-> ⚠️ Replace the values below with your actual outputs after running the notebook.
-
 - **Churn Rate:** ~40.90% of customers have not purchased in the last 180 days
 - **Revenue at Risk:** ₹2,000,556 from churned customers — 13.7% of total historical revenue
 - **Champions** (top 1288 of customers) drive ~9813222.27  of total revenue
