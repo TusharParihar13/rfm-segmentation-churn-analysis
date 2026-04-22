@@ -47,7 +47,7 @@ rfm_churn_project/
 │
 ├── sql/
 │   └── Exploratory SQL Queries.sql
-│   └── SQL for RFM Base Table             # All SQL queries used in the project
+│   └── SQL for RFM Base Table.sql            # All SQL queries used in the project
 │
 ├── requirements.txt
 └── README.md
