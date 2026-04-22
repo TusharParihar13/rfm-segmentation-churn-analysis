@@ -95,7 +95,7 @@ rfm_churn_project/
 ```
 Raw Data (Excel)
       ↓
-SQL Extraction & Aggregation (SQLite)
+SQL Extraction & Aggregation (PostgreSQL)
       ↓
 Data Cleaning (Pandas) — remove nulls, cancellations, negative values
       ↓
