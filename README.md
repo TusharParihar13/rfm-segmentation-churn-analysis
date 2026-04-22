@@ -4,7 +4,6 @@
 ![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey?logo=sqlite)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
